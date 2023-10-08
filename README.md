@@ -1,6 +1,6 @@
 # Calculadora
 
-<p size="20">Calculadora feita com</p>
+<p size="50">Calculadora feita com</p>
 
 
 <center>
